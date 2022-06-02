@@ -26,9 +26,8 @@
 
 
 4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
-   - 답 :
-   - 이유 :
-
+   - 답 : O
+   - 이유 : Working Directory는 수정이 가능한 상태이고 Staging Area는 커밋 전 대기 상태이고 수정을 원하는 경우 되돌아갈 수 있지만 Commits은 변경사항이 완전히 기록된 상태로 수정이 불가능하다
 
 
 5. Commit ID는 중복 가능하다. (맞으면 O, 틀리면 X)
